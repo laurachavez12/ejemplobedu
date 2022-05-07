@@ -1,2 +1,2 @@
 Learning JS
-Practice
+Practice how to do commits using nano a text editor. 
